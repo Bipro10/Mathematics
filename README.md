@@ -1,6 +1,6 @@
 MATHEMATICS 
 ============ 
-Number Theory: 
+NUMBER THEORY:
 set-1
  1.	Primality test
  2.	Prime factorization
@@ -13,7 +13,7 @@ set-1
  9.	Modular inverse
  10. Modular Exponentiation
 
- set-2
+set-2
  11. combinatorics
  12. Permutation
  13. Probabilities
@@ -25,7 +25,7 @@ set-1
  19. Modification of seive for fast factorization
  20. Seive on the segment	
 
- set-3
+set-3
  21. Josephus Problem
  22. Farey Sequence
  23. Euler's phi
@@ -40,7 +40,7 @@ set-1
  32. Determinant of a matrix
  33. RSA public key crypto System
 
- COMPUTATIONAL GEOMETRY:
+COMPUTATIONAL GEOMETRY:
  1.	Pick's Theorem
  2.	Convex hull
  3.	Line Intersection
