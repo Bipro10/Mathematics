@@ -1,7 +1,7 @@
- MATHEMATICS
- ============
- Number Theory:
- set-1
+MATHEMATICS 
+============ 
+Number Theory: 
+set-1
  1.	Primality test
  2.	Prime factorization
  3.	GCD, LCM
